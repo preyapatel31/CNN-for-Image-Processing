@@ -68,3 +68,6 @@ These outputs help in evaluating the performance of the CNN model.
 
 ## Medium blog link
 ## https://medium.com/@ppatel25/building-a-convolutional-neural-network-for-image-classification-6ed071ddfac9
+
+## Dataset lonk
+## https://drive.google.com/drive/folders/1P63X7MWmQIAsU8iaCQbsAl-fynU_dWOl?usp=sharing
